@@ -5,6 +5,10 @@ React slider compornents sample with Swiper.
 #### Option Parameters
 See: [https://idangero.us/swiper/api/](https://idangero.us/swiper/api/)
 
+## Demo
+
+![scrennshot](https://user-images.githubusercontent.com/50945864/60502417-bb514a00-9cf8-11e9-8495-a11c0af03d0d.gif)
+
 ## Environment
 
 * node v8.16.0
