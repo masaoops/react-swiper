@@ -7,22 +7,22 @@ import './App.css';
 const slides = [{
   url: 'https://example.com',
   title: 'sample slider 0',
-  image: '/logo.svg',
+  image: '/assets/sample-01.jpg',
   alt: 'sample slider image'
 },{
   url: 'https://example.com',
   title: 'sample slider 1',
-  image: '/logo.svg',
+  image: '/assets/sample-02.jpg',
   alt: 'sample slider image'
 },{
   url: 'https://example.com',
   title: 'sample slider 2',
-  image: '/logo.svg',
+  image: '/assets/sample-03.jpg',
   alt: 'sample slider image'
 },{
   url: 'https://example.com',
   title: 'sample slider 3',
-  image: '/logo.svg',
+  image: '/assets/sample-04.jpg',
   alt: 'sample slider image'
 }]
 
