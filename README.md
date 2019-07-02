@@ -38,6 +38,12 @@ $ npm start
 
 See: [http://localhost:3000](http://localhost:3000)
 
+NOTE: If you get @csstools/normalize.css error, then command below.
+```
+$ mv node_modules/@csstools/normalize.css node_modules/@csstools/anormalize.css
+$ mv node_modules/@csstools/anormalize.css/normalize.css node_modules/@csstools/normalize.css
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/masaoops/react-swiper.
